@@ -1,0 +1,147 @@
+html{
+margin: 50px;
+}
+
+body{	
+font-family: 'Montserrat', sans-serif;
+}
+
+nav{
+	background-color:wheat;
+	margin-bottom: 28px;
+	height: 72px;	
+    border-bottom-color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 15px;
+}
+
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+textarea{
+	width: 490px;
+}
+
+.comllo{
+	text-align:center;
+}
+
+.imgportada{
+	width: 360px;
+	height: 260px;
+}
+
+.filaregis{
+	margin-bottom: 15px;
+}
+
+.filamodal{
+	margin-bottom: 8px;
+}
+
+.filainfo{
+	margin-bottom: 15px;
+	font-size: 10px;
+	color: grey;
+}
+
+.btn-modal{
+	width: 94px;
+}
+
+.btn-modal-enviar{
+	background-color:wheat;
+}
+
+.btn-modal-enviar:hover{
+	background-color: #e29d1d;
+}
+
+.btn-estil{
+	background-color:wheat;
+	border-color:wheat;
+	color:black;
+}
+
+.btn-tamany{
+	width: 140px;
+}
+
+.btn-estil:hover{
+	background-color:#05214c;
+	border-color:#05214c;
+	color:white;
+}
+
+.btn-pisos{
+	font-size: 46px;
+}
+
+.filapisos{
+	padding-top: 140px;
+}
+
+.minmax{
+	width: 95px;
+}
+
+/* VISTA PRÈVIA PUJAR PIS */
+
+.vp_foto {
+	padding-bottom: 24px;
+}
+
+.vp_preu{
+	font-size: 48px;
+	color: #05214c;
+}
+
+.vp_direccio{
+	font-size: 28px;
+}
+
+.vp_fas{
+	font-size: 25px;
+} 
+
+.infotab{
+	margin-left: 14px;
+}
+
+/* ELS MEUS PISOS */ 
+
+.titoltaula{
+	padding-top: 14px;
+	padding-bottom: 14px;
+	border-style: solid;
+	border-width: 1px;
+	background-color: #e29d1d;
+}
+
+.texttaula{
+	padding-top: 8px;
+	padding-bottom: 8px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	vertical-align: middle;
+}
+
+.texttaula:nth-child(odd){
+	background-color: wheat;
+}
+
+.fas{
+	color: #e29d1d;	
+}
+
+/* TOTS ELS PISOS */ 
+
+.finalcontainer {
+	border-bottom: 1px solid #05214c;
+	padding-bottom: 48px;
+    margin-bottom: 48px;
+}
